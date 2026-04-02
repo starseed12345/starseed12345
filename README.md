@@ -1,5 +1,7 @@
 ## If you have any questions im available on discord @assemblycsharp
 
+![Profile Views](https://komarev.com/ghpvc/?username=starseed12345&style=flat-square)
+
 ![Trophies](https://gh-trophy.cdnsoft.net/?username=starseed12345&theme=darkhub)
 
 ## Languages and Tools 
