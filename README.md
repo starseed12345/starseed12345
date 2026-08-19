@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=starseed12345&style=flat-square)
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=starseed12345)](https://github.com/ryo-ma/github-profile-trophy)](https://trophygithubreadmelang.cybee.dpdns.org/?username=starseed12345&theme=light)
+[[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=starseed12345&theme=light)](https://github.com/ryo-ma/github-profile-trophy)](https://trophygithubreadmelang.cybee.dpdns.org/?username=starseed12345&theme=light)
 
 ## Languages and Tools 
 
