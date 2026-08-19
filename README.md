@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=starseed12345&style=flat-square)
 
-![Trophies](https://gh-trophy.cdnsoft.net/?username=starseed12345&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=starseed12345)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Tools 
 
